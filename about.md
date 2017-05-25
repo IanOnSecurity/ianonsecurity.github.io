@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a novice security researcher as well as Python writer (if you could call it that). I have created a few diddies from a Domain Hosting Script to this webpage. I have become interested in 'tics and try to have an open mind with the world going on around me.  
 
 You can find the source code for the Jekyll new theme at:
 {% include icon-github.html username="jekyll" %} /
