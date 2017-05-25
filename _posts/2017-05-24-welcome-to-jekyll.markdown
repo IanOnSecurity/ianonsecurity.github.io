@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WannaCry Makes Us All Want to Cry"
+title:  "Boo Hoo"
 date:   2017-05-24 15:55:03 -0500
 categories: [security, new, post]
 ---
